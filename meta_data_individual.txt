@@ -1,0 +1,6 @@
+{
+  "name": "Image Number One",
+  "description": "This will be the first image that works.",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png",
+  "attributes": [...]
+}
